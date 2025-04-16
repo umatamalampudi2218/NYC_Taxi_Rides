@@ -60,6 +60,4 @@ Fare and Tip Trends: Offering data-driven recommendations for pricing and servic
 
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License.
 
